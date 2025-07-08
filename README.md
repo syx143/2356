@@ -26,4 +26,4 @@
 💬 用户讨论与社区互动
 我们的平台不仅提供观看视频的功能，还设有互动评论区和评分系统。用户可以发表自己对影片的评价和感受，也能与其他影迷讨论影片的剧情、女优和其他相关话题。通过社区互动，你可以发现更多好片，甚至参与影片投票，选出本月最受欢迎的番号或女优。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/syx143/2356 ）</span>
